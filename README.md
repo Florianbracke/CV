@@ -1,1 +1,1 @@
-<img src="CV.pdf"> </img>
+<img src="CV.pdf">
